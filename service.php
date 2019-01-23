@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Interior - Modern Interior Design HTML Template</title>
+    <title>Jdecors</title>
     <!-- GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:500,600,700%7COpen+Sans:300,400" rel="stylesheet">
     <!-- FONT AWESOME -->
@@ -61,12 +61,12 @@
             <div class="collapse navbar-collapse" id="navbar-menu">
                 <ul class="nav navbar-nav navbar-right" data-in="fadeIn">
                     <li>
-                        <a href="index.html">Home</a>
+                        <a href="index.php">Home</a>
                     </li>
                     <li>
-                        <a href="about-us.html">About Us</a>
+                        <a href="about-us.php">About Us</a>
                     </li>                   
-                    <li><a href="service.html">Services</a></li>
+                    <li><a href="service.php">Services</a></li>
                     <li>
                         <a href="#">Contact Us</a>
                     </li>
@@ -81,8 +81,8 @@
             <div class="widget">
                 <h6 class="title">Custom Pages</h6>
                 <ul class="link">
-                    <li><a href="about-us.html">About Us</a></li>
-                    <li><a href="service.html">Services</a></li>
+                    <li><a href="about-us.php">About Us</a></li>
+                    <li><a href="service.php">Services</a></li>
                     <li><a href="#">Contact</a></li>
                 </ul>
             </div>
@@ -102,7 +102,7 @@
         <div class="container">
             <div class="row">
                 <div class="col">
-                    <a href="index.html">Home</a><span>»</span><span>Our Services</span>
+                    <a href="index.php">Home</a><span>»</span><span>Our Services</span>
                 </div>
             </div>
         </div>
@@ -299,5 +299,4 @@
     <script src="js/jquery.counterup.min.js"></script>
     <script src="js/inner-script.js"></script>
 </body>
-
-</html>
+</html>>
